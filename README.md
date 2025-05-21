@@ -10,7 +10,7 @@ This Python script allows you to overlay dynamic gauges (speed, dive angle, and 
 
 * **Altitude Gauge:** Tracks your altitude in feet.
 
-* **Data Synchronization:** Automatically synchronizes GPS data with your video footage.
+* **Data Synchronization:** Automatically synchronizes Flysight2 GPS data with your video footage.
 
 * **Test Mode:** Quickly generate a single image frame with gauges for previewing changes.
 
