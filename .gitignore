@@ -1,0 +1,5 @@
+venv
+test-*
+*.pyc
+output_skydive*
+*.mp4
