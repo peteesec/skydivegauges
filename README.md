@@ -70,16 +70,7 @@ It's highly recommended to run this script within a Python virtual environment t
         ```
 
 4.  **Install required Python packages:**
-    First, create a `requirements.txt` file in the same directory as `skydivegauges.py` with the following content:
-
-    ```
-    moviepy
-    pandas
-    numpy
-    opencv-python
-    ```
-
-    Then, install them:
+    Install the required packages using pip:
 
     ```bash
     pip install -r requirements.txt
